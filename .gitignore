@@ -22,8 +22,7 @@ tmp/
 .vscode
 .idea
 
-.minio
-.air.toml
+*.minio
 
 # .env file
 .env
